@@ -1,0 +1,11 @@
+.moveSelected {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.moveText,
+.dropdown {
+  display: inline-block;
+  margin: 0.5rem;
+}
